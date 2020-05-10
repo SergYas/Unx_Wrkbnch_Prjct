@@ -1,7 +1,5 @@
 # Project name
 --------------------------------------------------------
-Make started at
-20:10:37 05-10-2020
+Make started at 00:13:32 05-11-2020
 --------------------------------------------------------
-guessinggame.sh contains the following number of lines
-49
+guessinggame.sh contains 49 lines
